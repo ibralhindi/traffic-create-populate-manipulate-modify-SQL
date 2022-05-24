@@ -1,4 +1,4 @@
-# traffic-create-populate-manipulate-modify-SQL
+# vehicle-infringement-create-populate-manipulate-modify-SQL
 Use SQL to create, populate, manipulate and modify tables for traffic infringements. MBAT - S2, 2021
 
 Five SQL files are included:
